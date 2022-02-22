@@ -2,7 +2,7 @@ node_modules
 dist
 build
 
-code*
+_code_
 !code.example
 
 .gitmodules
